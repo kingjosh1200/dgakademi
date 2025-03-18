@@ -14,7 +14,7 @@ const Menu = () => {
         <div className='flex flex-col gap-4'>
             <div className='flex gap-3'>
                 <PiHouseDuotone  className='mt-1'/>
-                <div className='text-[10px] font-bold mt-1'>Overview</div>
+                <div className='text-[10px] font-bold mt-1'>Overviews</div>
             </div>
             <div className='flex gap-3'>
                 <TfiEmail className='mt-[4px]'/>
